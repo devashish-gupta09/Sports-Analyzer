@@ -1,0 +1,18 @@
+>> EASTERN CONFERENCE <<
+
+ATLANTIC DIVISION:                              CENTRAL DIVISION :                              SOUTHEAST DIVISION :                                                                        
+    -> BOSTON CELTICS                               -> CHICAGO BULLS                                -> ATLANTA HAWKS
+    -> BROOKLYN NETS                                -> CLEVELAND CAVALIERS                          -> CHARLOTTE HORNETS
+    -> NEW YORK KNICKS                              -> DETROIT PISTONS                              -> MIAMI HEATS
+    -> PHILADELPHIA 76ERS                           -> INDIANA PACERS                               -> ORLANDO MAGICS                       
+    -> TORONTO RAPTORS                              -> MILWAUKEE BUCKS                              -> WASHINGTON WIZARDS
+
+
+>> WESTERN CONFERENCE <<
+
+NORTHWEST DIVISION :                            PACIFIC DIVISION :                              SOUTHWEST DIVISION :
+    -> DENVER NUGGETS                               -> GOLDEN STATE WARRIORS                        -> DALLAS MAVERICKS
+    -> MINNESOTA TIMBERWOLVES                       -> LA CLIPPERS                                  -> HOUSTON ROCKETS
+    -> OKLAHOMA CITY THUNDER                        -> LOS ANGELES LAKERS                           -> MEMPHIS GRIZZLIES
+    -> PORTLAND TRAIL BLAZERS                       -> PHOENIX SUNS                                 -> NEW ORLEANS PELICANS
+    -> UTAH JAZZ                                    -> SACRAMENTO KINGS                             -> SAN ANTONIO SPURS    
